@@ -20,7 +20,7 @@ div.annotation1 {
     color: rgb(22, 22, 22);
     background: rgba(109, 108, 108, 0.3);
     border-radius: .5em;
-    font-size: 16px;
+    font-size: 30px;
     font-family: sans-serif ;
     line-height: 1.2;
     transition: opacity .5s;
@@ -37,7 +37,7 @@ div.annotation2 {
     color: rgb(22, 22, 22);
     background: rgba(109, 108, 108, 0.3);
     border-radius: .5em;
-    font-size: 16px;
+    font-size: 30px;
     font-family: sans-serif ;
     line-height: 1.2;
     transition: opacity .5s;
